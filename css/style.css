@@ -1,0 +1,305 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    color: rgb(102, 102, 102);
+    /* font-size: 20px; */
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    overflow: hidden;
+    padding: 30px 0;
+}
+
+.logo {
+    float: left;
+    margin-left: 90px;
+}
+
+nav {
+    float: right;
+    overflow: hidden;
+    margin-right: 90px;
+}
+
+nav ul {
+    float: left;
+    padding-left: 87px;
+}
+
+.banner_img {
+    margin: 0px 90px 40px;
+}
+
+.banner_img img {
+    width: 100%;
+}
+
+.photodiary_1 {
+    margin: 70px 190px;
+}
+
+.photodiary_1_p_1 {
+    font-size: 12px;
+    opacity: 0.5;
+}
+
+.photodiary_1 h1 {
+    margin: 15px 0;
+}
+
+.photodiary_1_p_2 {}
+
+.photodiary_1 input[type=text] {
+    width: 20%;
+    padding: 0px 0px;
+    margin: 30px 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+.lifestyle {
+    overflow: hidden;
+    margin: 10px 190px;
+}
+
+.lifestyle_left {
+    float: left;
+    width: 46%;
+}
+
+.lifestyle_left img {
+    width: 450px;
+}
+
+.lifestyle_left_p_1 {
+    margin: 10px 0;
+    font-size: 12px;
+    opacity: 0.5;
+}
+
+.lifestyle_left h1 {
+    margin: 20px 0;
+}
+
+.lifestyle_left_p_2 {}
+
+.lifestyle_right {
+    float: right;
+    width: 45%;
+}
+
+.lifestyle_right img {
+    width: 450px;
+}
+
+.lifestyle_right_p_1 {
+    margin: 10px 0;
+    font-size: 12px;
+    opacity: 0.5;
+}
+
+.lifestyle_right h1 {
+    margin-top: 17px;
+}
+
+.lifestyle_right_p_2 {
+    margin: 20px 0;
+}
+
+.photodiary {
+    overflow: hidden;
+    margin: 80px 190px;
+}
+
+.photodiary_left {
+    float: left;
+    width: 46%;
+}
+
+.photodiary_left img {
+    width: 450px;
+}
+
+.photodiary_left_p_1 {
+    margin: 10px 0;
+    font-size: 12px;
+    opacity: 0.5;
+}
+
+.photodiary_left h1 {
+    margin: 20px 0;
+}
+
+.photodiary_left_p_2 {
+    margin: 20px 0;
+}
+
+.photodiary_right {
+    float: right;
+    width: 45%;
+}
+
+.photodiary_right img {
+    width: 450px;
+}
+
+.photodiary_right_p_1 {
+    margin: 10px 0;
+    font-size: 12px;
+    opacity: 0.5;
+}
+
+.photodiary_right h1 {
+    margin-top: 17px;
+}
+
+.photodiary_right_p_2 {
+    margin: 20px 0;
+}
+
+.email {
+    text-align: center;
+    background-color: #F0F0F0;
+    height: 300px;
+}
+
+.email h1 {
+    /* margin: 48px 0; */
+    padding: 70px 0 50px 0;
+    font-size: 35px;
+    font-weight: 100;
+}
+
+.email form input[type=text] {
+    width: 25%;
+    padding: 0px 0px;
+    margin: 30px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid;
+    background-color: #F0F0F0;
+}
+
+.email form input:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.photodiary_bottom {
+    overflow: hidden;
+    margin: 80px 190px;
+}
+
+.photodiary_bottom_left {
+    float: left;
+    width: 46%;
+}
+
+.photodiary_bottom_left img {
+    width: 450px;
+}
+
+.photodiary_bottom_left_p_1 {
+    margin: 10px 0;
+    font-size: 12px;
+    opacity: 0.5;
+}
+
+.photodiary_bottom_left h1 {
+    margin: 20px 0;
+}
+
+.photodiary_bottom_left_p_2 {
+    margin: 20px 0;
+}
+
+.photodiary_bottom_right {
+    float: right;
+    width: 45%;
+}
+
+.photodiary_bottom_right img {
+    width: 450px;
+}
+
+.photodiary_bottom_right_p_1 {
+    margin: 10px 0;
+    font-size: 12px;
+    opacity: 0.5;
+}
+
+.photodiary_bottom_right h1 {
+    margin-top: 17px;
+}
+
+.photodiary_bottom_right_p_2 {
+    margin: 20px 0;
+}
+.button{
+    /* margin: 10px 50% 10px; */
+    margin-top: 20px;
+    margin-left: 45%;
+    margin-bottom: 100px;
+}
+.button button {
+    text-align: center;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+footer {
+    background-color: rgb(240, 240, 240);
+    text-align: center;
+    overflow: hidden;
+    padding: 30px 0;
+    /* text-decoration: none; */
+}
+
+.footer_left {
+    float: left;
+    overflow: hidden;
+    margin-left: 150px;
+}
+
+.footer_left_1 {
+    float: left;
+}
+
+.footer_left_2 {
+    float: left;
+    margin-left: 30px;
+}
+
+.footer_right {
+    float: right;
+    overflow: hidden;
+    margin-right: 90px;
+    /* padding: 25px 0; */
+}
+
+.footer_right_1 {
+    float: left;
+}
+
+.footer_right_2 {
+    float: left;
+    margin-left: 20px;
+}
+
+.footer_right_3 {
+    float: left;
+    margin-left: 20px;
+}
+
+.footer_right_4 {
+    float: left;
+    margin-left: 20px;
+}
